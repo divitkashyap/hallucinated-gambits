@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.nbc
+*.nbi
+.DS_Store

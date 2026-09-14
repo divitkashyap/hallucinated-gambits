@@ -1,0 +1,8 @@
+{
+  "agent.py": "c90f00a6bcd3109017f12b0f8a61e50efd8eb400d5d4f82368ad9fdee38e1612",
+  "config.py": "cfb133cf401eadba1fa048a03638f446aef44fdf369d8ae14df29f4f5583c3a6",
+  "lmr_core.py": "d00862bfae6e2b3f7e01be525a359349ebc6ba39356012054b9f9983381469b7",
+  "lmr_search.py": "28ad852db4416adb6f8ecaa2169e710beb875c3d0e62c6db2ba00d0baca21f84",
+  "opening_book.py": "5ee2818b1a843b9be538275a4e62d533ba923cc3fa72d9feb2d0bd6e080656c5",
+  "human_book.json": "90ed812a7f2253ec4367147445c4c12c7a5cf2e3bf545abdfb1f62bd63fe58f2"
+}
