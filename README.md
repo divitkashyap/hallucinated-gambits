@@ -4,9 +4,13 @@ A Python chess engine developed with AI coding assistance for AI Chessathon 2026
 
 **Peak competition rating: 1704 · displayed rank: 211/465 (top 45%) · 11 submission versions.**
 
-The screenshot supplied on 14 September shows a rating of 1660, 49 wins, 16 draws, 48 losses and 49 checkmates. These are the platform's displayed totals, not a verified final Swiss placement. Competition ratings are not FIDE or human online ratings. The chart and record cover different displayed totals; no per-version record is inferred.
+The screenshots supplied on 14 September show a rating of 1660, peak 1704, displayed rank 211/465, 49 wins, 16 draws, 48 losses and 49 checkmates. These are the platform's displayed totals, not a verified final Swiss placement. Competition ratings are not FIDE or human online ratings. The chart and record cover different displayed totals; no per-version record is inferred.
 
-![Competition dashboard: rank 211 of 465, rating 1660, peak 1704, record 49 wins 16 draws 48 losses](assets/stats-2026-09-14.png)
+![Competition dashboard: rank 211 of 465, rating 1660, peak 1704, record 49 wins 16 draws 48 losses](assets/dashboard-2026-09-14.png)
+
+The badge screenshot is included as platform context only. Badge labels and descriptions are copied from the visible dashboard; they should not be treated as independent awards or claims beyond the platform's own achievement system.
+
+![AI Chessathon badge grid showing 14 of 20 earned platform badges](assets/badges-2026-09-14.png)
 
 ## What this demonstrates
 
